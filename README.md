@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UndineBite
 - 👀 I’m interested in learning about machine learning and computers! Also love baking and reading books!
 - 🌱 I’m currently learning Computer science at Univeristy!
-- ✨ Languages I'm studying: Python, C++/C, Scheme, Linux
+- ✨ Languages I'm studying: Python, Dart, C++/C, Scheme, Linux
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 How to reach me: by email or instagram!
 - 😄 Pronouns: She/Her
